@@ -8,7 +8,7 @@ import shutil
 import re
 
 # default url for all robots
-url = "http://192.168.89.71/api/v2.0.0"
+url = "http://192.168.12.20/api/v2.0.0" # change IP address if not connecting directly to the robot
 
 # Unlock code for admin level
 admin = {
